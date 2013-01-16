@@ -14,6 +14,12 @@ Use arrow keys or WASD to move. Use the mouse to aim and click to fire.
 There are bugs. Lots of bugs. Levels after 5 are not finished. Dirtslinger
 mode is not active yet.
 
+= BUILDING =
+
+You can use the supplied Makefile if you wish:
+
+    $ make
+
 = COPYRIGHT =
 
 (c) 2010-2012 Doug Bell
