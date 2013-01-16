@@ -1,8 +1,8 @@
 MXMLC = mxmlc
 FLASHPUNK = flashpunk
-SRC = Mudpies.as Mudpies/*
-MAIN = Mudpies.as
-SWF = Mudpies.swf
+SRC = dirtpies.as dirtpies/*
+MAIN = dirtpies.as
+SWF = dirtpies.swf
 OPTIONS = -default-size=960,600 -static-link-runtime-shared-libraries=true
 DEBUG_OPTIONS = -omit-trace-statements=false -debug=true
 

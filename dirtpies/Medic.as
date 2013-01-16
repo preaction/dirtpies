@@ -1,12 +1,12 @@
-package Mudpies {
+package dirtpies {
 
     import net.flashpunk.Entity;
     import net.flashpunk.graphics.Spritemap;
     import net.flashpunk.tweens.motion.Motion;
     import net.flashpunk.FP;
 
-    import Mudpies.Level;
-    import Mudpies.Player;
+    import dirtpies.Level;
+    import dirtpies.Player;
 
     public class Medic extends Entity {
 

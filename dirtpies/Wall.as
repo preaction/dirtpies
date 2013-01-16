@@ -1,4 +1,4 @@
-package Mudpies {
+package dirtpies {
 
     import net.flashpunk.Entity;
     import net.flashpunk.graphics.TiledImage;

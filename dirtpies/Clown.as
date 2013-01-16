@@ -1,4 +1,4 @@
-package Mudpies {
+package dirtpies {
 
     import flash.geom.Point;
 
@@ -9,8 +9,8 @@ package Mudpies {
     import net.flashpunk.tweens.motion.LinearMotion;
     import net.flashpunk.FP;
 
-    import Mudpies.Level;
-    import Mudpies.Pie;
+    import dirtpies.Level;
+    import dirtpies.Pie;
 
     public class Clown extends Entity {
         [Embed( source = "/assets/clown.gif" )]

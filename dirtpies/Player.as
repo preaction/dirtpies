@@ -1,4 +1,4 @@
-package Mudpies {
+package dirtpies {
 
     import net.flashpunk.Entity;
     import net.flashpunk.graphics.Spritemap;
@@ -15,10 +15,10 @@ package Mudpies {
 
     import flash.geom.Rectangle;
 
-    import Mudpies.Level;
-    import Mudpies.Door;
-    import Mudpies;
-    import Mudpies.Medic;
+    import dirtpies.Level;
+    import dirtpies.Door;
+    import dirtpies;
+    import dirtpies.Medic;
 
     public class Player extends Entity {
         [Embed( source = "/assets/player-green.gif" )]

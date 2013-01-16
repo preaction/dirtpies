@@ -1,4 +1,4 @@
-package Mudpies {
+package dirtpies {
 
     import net.flashpunk.Entity;
     import net.flashpunk.graphics.Image;
@@ -6,8 +6,8 @@ package Mudpies {
     import net.flashpunk.FP;
     import flash.geom.Rectangle;
 
-    import Mudpies.Level;
-    import Mudpies.Player;
+    import dirtpies.Level;
+    import dirtpies.Player;
 
     public class Door extends Entity {
         [Embed( source = "/assets/door-closed.gif" )]

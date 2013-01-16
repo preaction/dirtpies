@@ -4,12 +4,12 @@ package {
     import net.flashpunk.FP;
     import net.flashpunk.debug.Console;
 
-    import Mudpies.Level;
-    import Mudpies.Player;
+    import dirtpies.Level;
+    import dirtpies.Player;
 
-    public class Mudpies extends Engine {
+    public class dirtpies extends Engine {
 
-        public function Mudpies() {
+        public function dirtpies() {
             super( 960, 600, 24, false );
         }
 

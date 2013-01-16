@@ -1,4 +1,4 @@
-package Mudpies {
+package dirtpies {
 
     import net.flashpunk.World;
     import net.flashpunk.Entity;
@@ -8,9 +8,9 @@ package Mudpies {
     import net.flashpunk.tweens.misc.Alarm;
     import net.flashpunk.FP;
 
-    import Mudpies.Player;
-    import Mudpies.Pie;
-    import Mudpies.Door;
+    import dirtpies.Player;
+    import dirtpies.Pie;
+    import dirtpies.Door;
 
     public class Level extends World {
         [Embed( source = "/assets/level-back.gif" )]

@@ -1,4 +1,4 @@
-package Mudpies {
+package dirtpies {
 
     import net.flashpunk.Entity;
     import net.flashpunk.graphics.Spritemap;
@@ -9,7 +9,7 @@ package Mudpies {
 
     import flash.geom.Rectangle;
 
-    import Mudpies.Clown;
+    import dirtpies.Clown;
 
     public class Pie extends Entity {
         [Embed( source = "/assets/pie.gif" )]
